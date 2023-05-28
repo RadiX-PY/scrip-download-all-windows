@@ -1,4 +1,5 @@
 // https://www.microsoft.com/en-us/software-download/windows10ISO
+// https://www.microsoft.com/en-us/software-download/windows11
 
 document.getElementById("product-edition").innerHTML = `
 <option value='' selected='selected'>Select edition</option>
